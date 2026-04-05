@@ -4,10 +4,10 @@ https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19567&LANGUAGE=
 fx-82/85/350EX:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19568&LANGUAGE=1
 
-fx-570/991SP X/X II
+fx-570/991SP X/X II:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19569&LANGUAGE=1
 
-fx-82/85/350SP X/X II
+fx-82/85/350SP X/X II:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19570&LANGUAGE=1
 
 fx-991DE X:
@@ -21,7 +21,8 @@ https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19573&LANGUAGE=
 
 fx-92B Spéciale Collège:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19574&LANGUAGE=1
- fx-570/991AR X:
+
+fx-570/991AR X:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19575&LANGUAGE=1
 
 fx-95AR X:
@@ -47,7 +48,8 @@ https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=19911&LANGUAGE=
 
 fx-97SG X:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=20107&LANGUAGE=1
- fx-580VN X:
+
+fx-580VN X:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=20109&LANGUAGE=1
 
 fx-83/85GT X:
@@ -55,10 +57,11 @@ https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=20134&LANGUAGE=
 
 fx-82/350CN X:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=20139&LANGUAGE=1
- fx-991CN X:
+
+fx-991CN X:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=20140&LANGUAGE=1
 
-fx-82/85DE X
+fx-82/85DE X:
 https://edu.casio.com/freetrial/en/freetrial_form.php?dl_FILE_NO=20150&LANGUAGE=1
 
 fx-991RS X:
